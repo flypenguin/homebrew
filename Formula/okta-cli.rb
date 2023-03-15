@@ -4,8 +4,8 @@ class OktaCli < Formula
 
     desc "A CLI interface for Okta"
     homepage "https://github.com/flypenguin/okta-cli"
-    url "https://files.pythonhosted.org/packages/22/cd/ced9c7a47cf9147c00803249e21eb641b86135a5ed57c7bce17943bac902/okta-cli-18.0.2.tar.gz"
-    sha256 "769f1f80949de64361cb3ebad8ffeec5d5d47e063b925ac2bb5b4543bd9ce41c"
+    url "https://files.pythonhosted.org/packages/b4/cd/782467e95f9a92552406ab629d0be4726a226da7c79648914585b12fd844/okta-cli-18.0.4.tar.gz"
+    sha256 "db3eb994853bb81f76f6bc6246af02101d77a75f483fc208f88b5c225a133e1d"
     license "MIT"
 
     livecheck do
