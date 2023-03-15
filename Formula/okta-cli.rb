@@ -4,8 +4,8 @@ class OktaCli < Formula
 
     desc "A CLI interface for Okta"
     homepage "https://github.com/flypenguin/okta-cli"
-    url "https://files.pythonhosted.org/packages/f2/ba/1b5f182c3f1769c0863bcaa77406bdcb81c92e31bb579959c01b1d8951c0/datasette-0.50.2.tar.gz"
-    sha256 "72e3127a5007103e2b2e7e35172d7da256471c54370447199ffafb631526c0b4"
+    url "https://files.pythonhosted.org/packages/22/cd/ced9c7a47cf9147c00803249e21eb641b86135a5ed57c7bce17943bac902/okta-cli-18.0.2.tar.gz"
+    sha256 "769f1f80949de64361cb3ebad8ffeec5d5d47e063b925ac2bb5b4543bd9ce41c"
     license "MIT"
 
     livecheck do
