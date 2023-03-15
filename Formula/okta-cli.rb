@@ -12,10 +12,6 @@ class OktaCli < Formula
         url :stable
     end
 
-    bottle do
-        cellar :any
-    end
-
     # ponyorm requires <= 3.10 ... :(
     # maybe get rid of it.
     depends_on "python@3.10"
