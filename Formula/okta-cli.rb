@@ -16,11 +16,6 @@ class OktaCli < Formula
     # maybe get rid of it.
     depends_on "python@3.10"
 
-    url ""
-    sha256 ""
-
-    depends_on "python@3.10"
-
     def install
         # from here: https://docs.brew.sh/Python-for-Formula-Authors
         # trying to nail down python 3.10 - because of pony ... :((
